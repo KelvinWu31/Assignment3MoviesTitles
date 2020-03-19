@@ -1,0 +1,356 @@
+534 Movies added into BST
+
+The subset of movies between Bug's Life AND Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) is:
+Bullets Over Broadway
+Burnt by the Sun (Utomlyonnye solntsem)
+Bushwhacked
+Cabin Boy
+Calendar Girl
+Canadian Bacon
+Candyman: Farewell to the Flesh
+Carlito's Way
+Casino
+Casper
+Castle Freak
+Catwalk
+Celluloid Closet, The
+Chasers
+Chungking Express (Chung Hing sam lam)
+Ciao, Professore! (Io speriamo che me la cavo)
+Circle of Friends
+City Hall
+City of Lost Children, The (CitÃ© des enfants perdus, La)
+City Slickers II: The Legend of Curly's Gold
+Clean Slate
+Clear and Present Danger
+Clerks
+Client, The
+Cliffhanger
+Clockers
+Clueless
+Cobb
+Colonel Chabert, Le
+Color of Night
+Coneheads
+Congo
+Cops and Robbersons
+Copycat
+Corrina, Corrina
+Cowboy Way, The
+Crimson Tide
+Crooklyn
+Crossing Guard, The
+Crow, The
+Crumb
+Cry, the Beloved Country
+Cure, The
+Cutthroat Island
+Dances with Wolves
+Dangerous Minds
+Dave
+Dazed and Confused
+Dead Man Walking
+Dead Presidents
+Dear Diary (Caro Diario)
+Death and the Maiden
+Demolition Man
+Desperado
+Destiny Turns on the Radio
+Devil in a Blue Dress
+Die Hard: With a Vengeance
+Disclosure
+Dolores Claiborne
+Don Juan DeMarco
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+Doom Generation, The
+Double Happiness
+Down Periscope
+Dracula: Dead and Loving It
+Drop Zone
+Dumb & Dumber (Dumb and Dumber)
+Dunston Checks In
+Eat Drink Man Woman (Yin shi nan nu)
+Ed
+Ed Wood
+Englishman Who Went Up a Hill But Came Down a Mountain, The
+Escort, The (Scorta, La)
+Even Cowgirls Get the Blues
+Executive Decision
+Exit to Eden
+Exotica
+Eye for an Eye
+Fair Game
+Far From Home: The Adventures of Yellow Dog
+Farewell My Concubine (Ba wang bie ji)
+Fargo
+Farinelli: il castrato
+Faster Pussycat! Kill! Kill!
+Fatal Instinct
+Father of the Bride Part II
+Fear of a Black Hat
+Fearless
+Federal Hill
+Firm, The
+First Knight
+Flesh and Bone
+Flintstones, The
+Flirting With Disaster
+Flower of My Secret, The (La flor de mi secreto)
+Fluke
+For Love or Money
+Forget Paris
+Forrest Gump
+Four Rooms
+Four Weddings and a Funeral
+Free Willy
+Free Willy 2: The Adventure Home
+French Kiss
+French Twist (Gazon maudit)
+Fresh
+Friday
+From Dusk Till Dawn
+Fugitive, The
+Georgia
+Germinal
+Geronimo: An American Legend
+Get Shorty
+Getaway, The
+Getting Even with Dad
+Ghost
+Go Fish
+GoldenEye
+Goofy Movie, A
+Gordy
+Great Day in Harlem, A
+Grumpier Old Men
+Hackers
+Happy Gilmore
+Hard Target
+
+The subset of movies between Back to the Future AND Hulk is: 
+Backbeat
+Bad Boys
+Bad Company
+Bad Girls
+Balto
+Barcelona
+Basketball Diaries, The
+Batman
+Batman Forever
+Beautiful Girls
+Beauty and the Beast
+Beauty of the Day (Belle de jour)
+Bed of Roses
+Before and After
+Before Sunrise
+Before the Rain (Pred dozhdot)
+Being Human
+Beverly Hillbillies, The
+Beverly Hills Cop III
+Beyond Bedlam
+Beyond Rangoon
+Bhaji on the Beach
+Big Bully
+Big Green, The
+Billy Madison
+Bio-Dome
+Birdcage, The
+Bitter Moon
+Black Beauty
+Black Sheep
+Blade Runner
+Blink
+Blown Away
+Blue Chips
+Blue in the Face
+Blue Sky
+Body Snatchers
+Boomerang
+Bottle Rocket
+Boxing Helena
+Boys Life
+Boys of St. Vincent, The
+Boys on the Side
+Brady Bunch Movie, The
+Braveheart
+Bread and Chocolate (Pane e cioccolata)
+Bridges of Madison County, The
+Broken Arrow
+Bronx Tale, A
+Brothers McMullen, The
+Browning Version, The
+Bullets Over Broadway
+Burnt by the Sun (Utomlyonnye solntsem)
+Bushwhacked
+Cabin Boy
+Calendar Girl
+Canadian Bacon
+Candyman: Farewell to the Flesh
+Carlito's Way
+Casino
+Casper
+Castle Freak
+Catwalk
+Celluloid Closet, The
+Chasers
+Chungking Express (Chung Hing sam lam)
+Ciao, Professore! (Io speriamo che me la cavo)
+Circle of Friends
+City Hall
+City of Lost Children, The (CitÃ© des enfants perdus, La)
+City Slickers II: The Legend of Curly's Gold
+Clean Slate
+Clear and Present Danger
+Clerks
+Client, The
+Cliffhanger
+Clockers
+Clueless
+Cobb
+Colonel Chabert, Le
+Color of Night
+Coneheads
+Congo
+Cops and Robbersons
+Copycat
+Corrina, Corrina
+Cowboy Way, The
+Crimson Tide
+Crooklyn
+Crossing Guard, The
+Crow, The
+Crumb
+Cry, the Beloved Country
+Cure, The
+Cutthroat Island
+Dances with Wolves
+Dangerous Minds
+Dave
+Dazed and Confused
+Dead Man Walking
+Dead Presidents
+Dear Diary (Caro Diario)
+Death and the Maiden
+Demolition Man
+Desperado
+Destiny Turns on the Radio
+Devil in a Blue Dress
+Die Hard: With a Vengeance
+Disclosure
+Dolores Claiborne
+Don Juan DeMarco
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+Doom Generation, The
+Double Happiness
+Down Periscope
+Dracula: Dead and Loving It
+Drop Zone
+Dumb & Dumber (Dumb and Dumber)
+Dunston Checks In
+Eat Drink Man Woman (Yin shi nan nu)
+Ed
+Ed Wood
+Englishman Who Went Up a Hill But Came Down a Mountain, The
+Escort, The (Scorta, La)
+Even Cowgirls Get the Blues
+Executive Decision
+Exit to Eden
+Exotica
+Eye for an Eye
+Fair Game
+Far From Home: The Adventures of Yellow Dog
+Farewell My Concubine (Ba wang bie ji)
+Fargo
+Farinelli: il castrato
+Faster Pussycat! Kill! Kill!
+Fatal Instinct
+Father of the Bride Part II
+Fear of a Black Hat
+Fearless
+Federal Hill
+Firm, The
+First Knight
+Flesh and Bone
+Flintstones, The
+Flirting With Disaster
+Flower of My Secret, The (La flor de mi secreto)
+Fluke
+For Love or Money
+Forget Paris
+Forrest Gump
+Four Rooms
+Four Weddings and a Funeral
+Free Willy
+Free Willy 2: The Adventure Home
+French Kiss
+French Twist (Gazon maudit)
+Fresh
+Friday
+From Dusk Till Dawn
+Fugitive, The
+Georgia
+Germinal
+Geronimo: An American Legend
+Get Shorty
+Getaway, The
+Getting Even with Dad
+Ghost
+Go Fish
+GoldenEye
+Goofy Movie, A
+Gordy
+Great Day in Harlem, A
+Grumpier Old Men
+Hackers
+Happy Gilmore
+Hard Target
+Hate (Haine, La)
+Heat
+Heavenly Creatures
+Heavy Metal
+Heavyweights (Heavy Weights)
+Heidi Fleiss: Hollywood Madam
+Hellraiser: Bloodline
+Hideaway
+Higher Learning
+Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension)
+Home Alone
+Home for the Holidays
+Homeward Bound II: Lost in San Francisco
+Hoop Dreams
+Hot Shots! Part Deux
+House of the Spirits, The
+House Party 3
+Houseguest
+How to Make an American Quilt
+Hudsucker Proxy, The
+
+The subset of movies between Toy Story AND WALL·E: 
+Toy Story
+True Lies
+True Romance
+Twelve Monkeys (a.k.a. 12 Monkeys)
+Two if by Sea
+Two Much
+Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)
+Under Siege 2: Dark Territory
+Underneath
+Unforgettable
+Unstrung Heroes
+Unzipped
+Up Close and Personal
+Usual Suspects, The
+Vampire in Brooklyn
+Vanya on 42nd Street
+Village of the Damned
+Virtuosity
+Waiting to Exhale
+Walk in the Clouds, A
+Walking Dead, The
+Exception in thread "main" java.io.FileNotFoundException: ..\output\output.txt (The system cannot find the path specified)
+	at java.base/java.io.FileOutputStream.open0(Native Method)
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:292)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:235)
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:185)
+	at MoviesMain.printToFile(MoviesMain.java:74)
+	at MoviesMain.main(MoviesMain.java:67)
